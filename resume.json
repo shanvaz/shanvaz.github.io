@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "Shanavaz Pasha",
+    "label": "Programmer",
+    "picture": "",
+    "email": "shaanwz@gmail.com",
+    "phone": "9036798337",
+    "website": "shanvaz.github.io",
+    "summary": "Professionally, I'm Programmer currently working in Accenture, Bangalore. I enjoy taking problem and turning them into simple and beautiful interface design. I like programming and always strive for the newest technologies. Apart from being a techie geek, you'll find me either playing computer games or playing snooker.",
+    "location": {
+      "address": "#127, 13th Main, Hal 3rd Stage, Kodihalli",
+      "postalCode": "56008",
+      "city": "Bangalore",
+      "countryCode": "",
+      "region": "India"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "shanavaz",
+        "url": "https://www.linkedin.com/in/shanavaz-pasha-4bb75329"
+      },
+      {
+        "network": "Facebook",
+        "username": "shanavaz",
+        "url": "https://www.facebook.com/shaanwz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Accenture",
+      "position": "Associate Software Engineer",
+      "website": "https://www.accenture.com/in-en",
+      "startDate": "2015-07-01",
+      "endDate": "2016-05-15",
+      "summary": "Currently working on project called 'CASH' which comes directly under one of the top company 'MARS' based out Mount Olive, New Jersey, U.S",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ICACCI-2013",
+      "position": "",
+      "website": "http://icacci-conference.org/site/",
+      "startDate": "2013-09-04",
+      "endDate": "2013-09-08",
+      "summary": "The scope of ICACCI-2013 is to provide an international forum for exchange of ideas among interested researchers, students, developers, and practitioners in the areas of computing, communications, and informatics.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sri Jayachamarajendra College of Engineering",
+      "area": "Computer Application",
+      "studyType": "Master's",
+      "startDate": "2012-07-01",
+      "endDate": "2015-06-15",
+      "gpa": "8.25",
+      "courses": []
+    },
+    {
+      "institution": "Karnatak science college",
+      "area": "Computer Application",
+      "studyType": "Bachelor",
+      "startDate": "2009-07-01",
+      "endDate": "2012-05-20",
+      "gpa": "7.85",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "2011-10-15",
+      "awarder": "",
+      "summary": "Won 1st prize in Technical hunt in Eternus national-level fest, Belgaum"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Programmig",
+      "level": "Master",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        ""
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Master",
+      "keywords": [
+        "Oracal",
+        "MySql",
+        "SqlLite"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Android"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Kannada",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Watching and Playing Football",
+      "keywords": []
+    },
+    {
+      "name": "Automobile",
+      "keywords": []
+    },
+    {
+      "name": "Technology",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
